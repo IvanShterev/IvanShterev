@@ -7,7 +7,7 @@ I'm a passionate Frontend Developer with a love for building beautiful web appli
 
 📫 Get in Touch
 - Email: ivan.shterevv@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ivan-shterev/)
+- LinkedIn: (https://www.linkedin.com/in/ivan-shterev/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
