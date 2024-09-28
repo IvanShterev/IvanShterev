@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer with a love for building beautiful web appli
 - LinkedIn: https://www.linkedin.com/in/ivan-shterev/
 
 
-https://your-gif-url.com/moving-code.gif Languages and Tools :
+![Moving Code Symbol](https://your-gif-url.com/moving-code.gif)Languages and Tools :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
