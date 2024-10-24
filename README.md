@@ -3,7 +3,7 @@
 </div>
 
 Hi there, I'm Ivan! 👋
-I'm a passionate Frontend Developer with a love for building beautiful web applications. 🌟
+I'm a passionate Developer with a love for building beautiful web applications. 🌟
 
 📫 Get in Touch
 - Email: ivan.shterevv@gmail.com
