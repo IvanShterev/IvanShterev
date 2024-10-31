@@ -95,7 +95,7 @@
 </div>
 
 
-<div style="margin-bottom: 60px;"></div>
+<div style="margin-bottom: 60px; align-self: center;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
