@@ -22,7 +22,7 @@
       <br>Linkedin
     </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="SQ Lite" />
       <br>X
     </td>
     <td align="center" width="100">
