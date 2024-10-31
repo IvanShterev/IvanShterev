@@ -85,6 +85,10 @@
       <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="45" height="45" />
       <br>TypeScript
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
+      <br>Docker
+    </td>
   </tr>
 </table>
 <br><br>
