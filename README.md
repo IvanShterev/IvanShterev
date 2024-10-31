@@ -20,13 +20,13 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/ivan-shterev/" target="_blank">
+      <a href="https://www.linkedin.com/in/ivan-shterev/" target="_blank" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
         <br>LinkedIn
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://www.instagram.com/ivan_shterevv/" target="_blank">
+      <a href="https://www.instagram.com/ivan_shterevv/" target="_blank" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" />
         <br>Instagram
       </a>
