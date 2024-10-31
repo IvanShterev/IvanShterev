@@ -1,31 +1,167 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+
+<h2 align="center"><samp>Hi 👋 I'm Ivan</samp></h2>
+<h3 align="center"><samp>A software developer from Bulgaria</samp> </h3>
+
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>- 📫 Reach me at https://www.linkedin.com/in/ivan-shterev/</samp>
+
+
+
+<h3 align="center"><samp>Connect</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+   <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+      <br>Linkedin
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+      <br>X
+    </td>
+    <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
+      <br>Leetcode
+    </td>
+       <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
+      <br>Medium
+    </td>
+  </tr>
+</table>
+<br><br>
 </div>
 
-Hi there, I'm Ivan! 👋
-I'm a passionate Developer with a love for building beautiful web applications. 🌟
 
-📫 Get in Touch
-- Email: ivan.shterevv@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ivan-shterev/
-
-<h2 class="heading-element" dir="auto">
-  <animated-image data-catalyst="" style="width: 18px;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-target="animated-image.originalLink">
-      <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" style="max-width: 100%; display: inline-block; width: 18px; height: 18px;" data-target="animated-image.originalImage">
-    </a>
-  </animated-image> 
-  Languages and Tools I use 
-</h2>
-
-
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
+      <br>BLoC
+    </td>
+   <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+      <br>Riverpod
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+      <br>SQ Lite
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
+      <br>Kotlin
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
+      <br>Android Studio
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+<br><br>
 </div>
+
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+</div>
+
+<div style="margin-bottom: 60px;"></div>
+<h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
