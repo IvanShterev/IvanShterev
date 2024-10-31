@@ -10,6 +10,7 @@
 <div style="margin-bottom: 200px;"></div>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/ivan-shterev/</samp>
+<samp>- 📫 Reach me at ivan.shterevv@gmail.com</samp>
 
 
 
@@ -24,10 +25,6 @@
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="icon" />
       <br>Instagram
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=facebook" alt="icon" width="45" height="45" />
-      <br>Facebook
     </td>
   </tr>
 </table>
