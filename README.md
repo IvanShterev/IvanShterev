@@ -10,6 +10,7 @@
 <div style="margin-bottom: 200px;"></div>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/ivan-shterev/</samp>
+
 <samp>- 📫 Reach me at ivan.shterevv@gmail.com</samp>
 
 
@@ -19,17 +20,22 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-      <br>Linkedin
+      <a href="https://www.linkedin.com/in/ivan-shterev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+        <br>LinkedIn
+      </a>
     </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="icon" />
-      <br>Instagram
+    <td align="center" width="100">
+      <a href="https://www.instagram.com/ivan_shterevv/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" />
+        <br>Instagram
+      </a>
     </td>
   </tr>
 </table>
 <br><br>
 </div>
+
 
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
