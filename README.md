@@ -22,16 +22,12 @@
       <br>Linkedin
     </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="SQ Lite" />
-      <br>X
+        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="icon" />
+      <br>Instagram
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
-      <br>Leetcode
-    </td>
-       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
-      <br>Medium
+        <img src="https://skillicons.dev/icons?i=facebook" alt="icon" width="45" height="45" />
+      <br>Facebook
     </td>
   </tr>
 </table>
